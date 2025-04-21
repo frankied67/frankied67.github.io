@@ -8,7 +8,8 @@
 
  
   <div style="display: inline-block; margin-left: 40px;">
-    <img src="epcr2.0.png" width="320" style="border-radius: 4px;">
+    <img src="epcr2.0.png" width="300" style="border-radius: 4px;">
+   <div style="margin-top: 8px; fornt-weight: bold;">ePCR 2.0 Project </div>
   </div>
 
 </div>
