@@ -1,6 +1,6 @@
 # ePCR 2.0
 <div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
-  <div style="display: flex; flex-shrink: 0; gap: 20px max-width: 260px;">
+  <div style="display: flex; gap: 20px max-width: 260px;">
     <img src="IMAGE1.jpg" width="300" style="border-radius: 4px;">
     <img src="epcr2.0.png" width="450" style="border-radius: 4px;">
   </div>
