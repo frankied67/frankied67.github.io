@@ -7,7 +7,7 @@
   </div>
 
  
-  <div style="display: inline-block; margin-left: 40px;">
+  <div style="display: inline-block; margin-left: 40px; margin-top: -20px;">
     <img src="epcr2.0.png" width="300" style="border-radius: 4px;">
   </div>
 
