@@ -1,6 +1,6 @@
 # ePCR 2.0
 <div style="text-align: center;">
-  <div style="display: flex; justify-xontent: center; gap: 20px margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 30px margin-bottom: 20px;">
     <img src="IMAGE1.jpg" width="180" style="border-radius: 4px;">
     <img src="epcr2.0.png" width="270" style="border-radius: 4px;">
   </div>
