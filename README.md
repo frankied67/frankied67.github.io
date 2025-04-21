@@ -2,13 +2,13 @@
 
  
   <div style="display: inline-block; margin-right: 40px; text-align: center;">
-    <img src="image1.jpg" width="180" style="border-radius: 4px;">
+    <img src="IMAGE1.jpg" width="180" style="border-radius: 4px;">
     <div style="margin-top: 8px; font-weight: bold;">Frank Donnellan</div>
   </div>
 
  
   <div style="display: inline-block; margin-left: 40px;">
-    <img src="image2.jpg" width="270" style="border-radius: 4px;">
+    <img src="epcr2.0.png" width="270" style="border-radius: 4px;">
   </div>
 
 </div>
