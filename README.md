@@ -7,8 +7,8 @@
   </div>
 
  
-  <div style="display: inline-block; margin-left: 40px; margin-bottom: 20px;">
-    <img src="epcr2.0.png" width="270" style="border-radius: 4px;">
+  <div style="display: inline-block; margin-left: 40px;">
+    <img src="epcr2.0.png" width="300" style="border-radius: 4px;">
   </div>
 
 </div>
