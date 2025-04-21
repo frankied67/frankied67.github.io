@@ -1,2 +1,2 @@
 # ePCR 2.0
-![ ](IMAGE1.jpg)
+<img src="IMAGE1.jpg" width="300">
