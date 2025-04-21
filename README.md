@@ -1,9 +1,9 @@
 # ePCR 2.0
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="display: flex; gap: 20px">
     <img src="IMAGE1.jpg" width="300">
     <img src="epcr2.0.png" width="450">
-  </div>div>
+  </div>
   <div style="max-width: 60%; padding-left: 20px;">
     <p>
       This is a paragraph about my project. It explains what the project does and why it's useful.
