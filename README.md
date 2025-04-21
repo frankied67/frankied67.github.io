@@ -1,7 +1,14 @@
-<div style="text-align: center; margin-bottom: 20px">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 30px margin-bottom: 20px;">
-    <img src="IMAGE1.jpg" width="180" style="margin-right: 20px; border-radius: 4px; display: inline-block;">
-    <img src="epcr2.0.png" width="270" style="border-radius: 4px; display: inline-block;">
+<div style="text-align: center; margin-bottom: 20px;">
+
+
+  <div style="display: inline-block; margin-right: 40px; text-align: center;">
+    <img src="IMAGE1.jpg" width="180" style="border-radius: 4px;">
+    <div style="margin-top: 8px; font-weight: bold;">Your Name</div>
+  </div>
+
+  
+  <div style="display: inline-block; margin-left: 40px;">
+    <img src="epcr2.0.png" width="270" style="border-radius: 4px;">
   </div>
 
   <hr style="width: 80%; margin: 30px auto; border-top: 1px solid #ccc;">
