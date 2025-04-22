@@ -22,7 +22,7 @@
 <p>It aims to:</p>
 <ul>
   <li>Simplify the reporting workflow for frontline emergency workers</li>
-  <li>Enhance the user experience (UX) in high-pressure environments</li>
+  <li>Provide a better and more intuitive user experience (UX)</li>
   <li>Integrate Clinical Practice Guidelines into the digital form</li>
 </ul>
 
