@@ -18,10 +18,12 @@
 
 <div style="max-width: 700px; margin: 0 auto;">
   <p>
-    This is a paragraph about my project. It explains what the project does and why it's useful or interesting.
-    You can <a href="https://github.com/yourusername/yourrepo" target="_blank">view the GitHub repository</a>,
-    check the <a href="https://yourproject.vercel.app" target="_blank">live site on Vercel</a>,
-    or <a href="https://youtu.be/yourvideoID" target="_blank">watch the demo video on YouTube</a>.
+    ePCR 2.0 is a work based project that attempts to simplify and redesign the electronic patient care report form (ePCR) used by Paramedics during their working day.
+   The goal is to develop a more appropriate user experience (UX) for the emergency worker using the epcr and an attempt is made
+   to marry this with the Clinical Practise Guidelines used by paramedics to aid their clinical decision making
+    You can <a href="https://github.com/frankied67/ePCR-2.0.git" target="_blank">view the GitHub repository</a>,
+    check the <a href="https://e-pcr-2-0.vercel.app/" target="_blank">live site on Vercel</a>,
+    or <a href="https://youtu.be/bSeqxGvh3aA" target="_blank">watch the demo video on YouTube</a>.
   </p>
 </div>
 
