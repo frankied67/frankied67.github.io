@@ -17,13 +17,23 @@
 <hr style="width: 80%; margin: 30px auto; border-top: 1px solid #ccc;">
 
 <div style="max-width: 700px; margin: 0 auto;">
-  <p>
-    ePCR 2.0 is a work based project that attempts to simplify and redesign the electronic patient care report form (ePCR) used by Paramedics during their working day.
-   The goal is to develop a more appropriate user experience (UX) for the emergency worker using the epcr and an attempt is made
-   to marry this with the Clinical Practise Guidelines used by paramedics to aid their clinical decision making
-    You can <a href="https://github.com/frankied67/ePCR-2.0.git" target="_blank">view the GitHub repository</a>,
-    check the <a href="https://e-pcr-2-0.vercel.app/" target="_blank">live site on Vercel</a>,
-    or <a href="https://youtu.be/bSeqxGvh3aA" target="_blank">watch the demo video on YouTube</a>.
-  </p>
+<p><strong>ePCR 2.0</strong> is a project focused on improving the electronic patient care report (ePCR) used by paramedics.</p>
+
+<p>It aims to:</p>
+<ul>
+  <li>Simplify the reporting workflow for frontline emergency workers</li>
+  <li>Enhance the user experience (UX) in high-pressure environments</li>
+  <li>Integrate Clinical Practice Guidelines into the digital form</li>
+</ul>
+
+<p>
+  Useful links:
+  <ul>
+    <li><a href="https://github.com/frankied67/ePCR-2.0.git" target="_blank">GitHub repository</a></li>
+    <li><a href="https://e-pcr-2-0.vercel.app/" target="_blank">Live site on Vercel</a></li>
+    <li><a href="https://youtu.be/bSeqxGvh3aA" target="_blank">Demo video on YouTube</a></li>
+  </ul>
+</p>
+
 </div>
 
