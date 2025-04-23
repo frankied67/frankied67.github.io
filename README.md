@@ -31,6 +31,11 @@
   <ul>
     <li><a href="https://github.com/frankied67/ePCR-2.0.git" target="_blank">GitHub repository</a></li>
     <li><a href="https://e-pcr-2-0.vercel.app/" target="_blank">Live site on Vercel</a></li>
+    <div style="margin-top: 10px; background-color: #f9f9f9; padding: 10px; border-left: 4px solid #007bff;">
+      <strong>Login credentials for testing:</strong><br>
+      <strong>User role:</strong> <code>Medic 11</code> / <code>medic11password</code>
+      <strong>Admin role:</strong> <code>Admin Medic</code> / <code>adminpassword</code>
+    </div>
     <li><a href="https://youtu.be/bSeqxGvh3aA" target="_blank">Demo video on YouTube</a></li>
   </ul>
 </p>
